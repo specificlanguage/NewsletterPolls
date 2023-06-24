@@ -1,0 +1,7 @@
+# Extra folders
+node_modules
+dist
+
+# Environment
+.env
+.idea
